@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crispo, my name actually is Gabriel, but you can call me by Crispim, that is my middle name.
+- 👋 Hi, I’m @crispolas, my name actually is Gabriel, but you can call me by Crispim, that is my middle name.
 - 👀 I’m 19 years old
 - 🌱 I’m currently at college
 - 💞️ I’m looking to learn more about software engineer.
